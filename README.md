@@ -1,7 +1,7 @@
 # Hi, I'm Sam 👋
 
 - 🔭 I’m currently working at [Citrix](https://www.citrix.com)
-- 🌱 I’m currently learning [Golang](https://golang.org/)
+- 🌱 I’m currently learning [Golang](https://golang.org/) and [Vue.js](https://vuejs.org)
 - 👯 I’m looking to collaborate on anything!
 - 💬 Ask me about anything [here](https://github.com/microhod/microhod/issues)
 
