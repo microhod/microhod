@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning [Golang](https://golang.org/) and [Vue.js](https://vuejs.org)
 - 👯 I’m looking to collaborate on anything!
 - 💬 Ask me about anything [here](https://github.com/microhod/microhod/issues)
+- ⚡ Fun fact: I play guitar and bass, check out my band [Clapham Watch](https://www.youtube.com/channel/UCnyw0TSruQPRd_PPJmp0Ryw)!
 
 ## Github Stats
 
