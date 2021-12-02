@@ -1,7 +1,7 @@
 # Hi, I'm Sam 👋
 
-- 🔭 I’m currently working at [Citrix](https://www.citrix.com)
-- 🌱 I’m currently learning [Golang](https://golang.org/) and [Vue.js](https://vuejs.org)
+- 🔭 I’m currently working at [Bud](https://www.thisisbud.com/)
+- 💻 I mainly code in [Golang](https://golang.org/) and [C#](https://docs.microsoft.com/en-us/dotnet/csharp/)
 - 👯 I’m looking to collaborate on anything!
 - 💬 Ask me about anything [here](https://github.com/microhod/microhod/issues)
 - ⚡ Fun fact: I play guitar and bass, check out my band [Clapham Watch](https://www.youtube.com/channel/UCnyw0TSruQPRd_PPJmp0Ryw)!
