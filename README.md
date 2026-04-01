@@ -1,6 +1,6 @@
 # Hi, I'm Sam 👋
 
-- 🔭 I’m currently working at [Bud](https://www.thisisbud.com/)
+- 🔭 I’m currently working at [Green Project Tech](https://www.greenprojecttech.com/)
 - 💻 I mainly code in [Golang](https://golang.org/) and [Python](https://python.org)
 - 👯 I’m looking to collaborate on anything!
 - 💬 Ask me about anything [here](https://github.com/microhod/microhod/issues)
